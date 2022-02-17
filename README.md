@@ -13,7 +13,7 @@
 
 - 📄 Learn about my work and education [https://nadr0jj.github.io/resume/](https://nadr0jj.github.io/resume/)
 
-- ⚡ Fun fact **I've written software for the MLB, and I'm a passionate angler!**
+- ⚡ Fun fact **I've written software for the MLB, and I've caught both shark and salmon in Seattle!**
 
 
 <h3 align="left">Languages and Tools:</h3>
