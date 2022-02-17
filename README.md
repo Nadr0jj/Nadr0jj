@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nadr0jj.github.io/portfolio/](https://nadr0jj.github.io/portfolio/)
 
-- 💬 Ask me about **Python, SQL, numpy, pandas, pytorch, and optimization and probability theory!**
+- 💬 Ask me about **Python, SQL, numpy, pandas, pytorch, optimization, and probability theory!**
 
 - 📄 Learn about my work and education [https://nadr0jj.github.io/resume/](https://nadr0jj.github.io/resume/)
 
