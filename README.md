@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, SQL, numpy, pandas, pytorch, optimization, and probability theory!**
 
-- 📄 Learn about my work and education [https://nadr0jj.github.io/resume/](https://nadr0jj.github.io/resume/)
+- 📄 Learn about my work and education [https://nadr0jj.github.io/](https://nadr0jj.github.io/)
 
 - ⚡ Fun fact **I've written software for the MLB, and I've caught both shark and salmon in Seattle!**
 
