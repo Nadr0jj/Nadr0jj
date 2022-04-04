@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadr0jj&label=Profile%20views&color=0e75b6&style=flat" alt="nadr0jj" /> </p>
 
-- 🔭 I’m currently working on **completing my MSc in Data Science at the University of Washington, Seattle.**
+- 🔭 I just **completed my MSc in Data Science at the University of Washington, Seattle** in March of 2022.
 
 - 🌱 I’m always learning **new statistical methods and Python packages.**
 
